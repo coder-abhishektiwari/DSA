@@ -11,6 +11,7 @@ public class evenorodd {
             System.out.println("The number "+num+" is odd.");
         }
         sc.close();
+        
 
     }
 }
