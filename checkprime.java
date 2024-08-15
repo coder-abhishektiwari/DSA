@@ -1,5 +1,5 @@
 
-public class practice {
+public class checkprime {
     public static void main(String[] args){
         int n = 91;
         int count = 0 ;
